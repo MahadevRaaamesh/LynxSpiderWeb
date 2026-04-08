@@ -9,8 +9,8 @@ from collections import deque
 import traci
 
 # ===================== CONFIG =====================
-SUMO_BINARY = ""
-SUMO_CFG = ""
+SUMO_BINARY = "D://WORK//SUMO//bin//sumo-gui.exe"
+SUMO_CFG = "D://PROJECTS//CCP PJCTS//SEM 4//LynxSpiderWeb//Intersection//Intersection.sumocfg"
 MODEL_PATH = "multi_tls_dqn.pt"
 
 MAX_STEPS_PER_EP = 2000
